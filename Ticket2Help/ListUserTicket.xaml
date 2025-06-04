@@ -1,0 +1,29 @@
+﻿<Window x:Class="Ticket2Help.List_User_Ticket"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Tickets do Utilizador" Height="450" Width="800" WindowStartupLocation="CenterScreen">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <ListView x:Name="listView" Grid.Row="0" Margin="0,0,0,10" FontSize="16" SelectionMode="Single">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="ID" DisplayMemberBinding="{Binding Id}" Width="80" />
+                    <GridViewColumn Header="Tipo" DisplayMemberBinding="{Binding Tipo}" Width="150" />
+                    <GridViewColumn Header="Descrição" DisplayMemberBinding="{Binding Descricao}" Width="400" />
+                    <GridViewColumn Header="Data" DisplayMemberBinding="{Binding Data}" Width="130" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Center" >
+            <Button x:Name="btnDetails" Content="Detalhes" Width="120" Height="35" Margin="0,0,20,0" FontSize="16" Click="btnDetails_Click"
+                    Background="#2b6cb0" Foreground="White" />
+            <Button x:Name="btnExit" Content="Sair" Width="120" Height="35" FontSize="16" Click="btnExit_Click"
+                    Background="#F44336" Foreground="White" />
+        </StackPanel>
+    </Grid>
+</Window>
