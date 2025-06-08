@@ -1,0 +1,45 @@
+﻿<Window x:Class="Ticket2Help.Users_List"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Lista de Utilizadores" Height="500" Width="850"
+        Background="#f0f4f8" WindowStartupLocation="CenterScreen">
+
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- LISTVIEW -->
+        <ListView x:Name="listView" FontSize="16" Grid.Row="0" Margin="0 0 0 20" BorderBrush="#d1dce5" BorderThickness="1">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="ID" Width="50" DisplayMemberBinding="{Binding Id}" />
+                    <GridViewColumn Header="Nome" Width="150" DisplayMemberBinding="{Binding Nome}" />
+                    <GridViewColumn Header="Username" Width="150" DisplayMemberBinding="{Binding Username}" />
+                    <GridViewColumn Header="Password" Width="150" DisplayMemberBinding="{Binding Password}" />
+                    <GridViewColumn Header="Admin" Width="100" DisplayMemberBinding="{Binding Admin}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <!-- BOTÕES -->
+        <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Center" Margin="0 10 0 0">
+            <Button x:Name="btnAddUser" Content="Adicionar" Width="150" Height="35" FontSize="16" Click="btnAddUser_Click"
+                    Background="#2b6cb0" Foreground="White" BorderBrush="#2b6cb0" Cursor="Hand"
+                    Margin="5"/>
+
+            <Button x:Name="btnEditUser" Content="Editar" Width="150" Height="35" FontSize="16" Click="btnEditUser_Click"
+                    Background="#2b6cb0" Foreground="White" BorderBrush="#2b6cb0" Cursor="Hand"
+                    Margin="5"/>
+
+            <Button x:Name="btnDelUser" Content="Eliminar" Width="150" Height="35" FontSize="16" Click="btnDelUser_Click"
+                    Background="#e53e3e" Foreground="White" BorderBrush="#e53e3e" Cursor="Hand"
+                    Margin="5"/>
+
+            <Button x:Name="btnExit" Content="Sair" Width="150" Height="35" FontSize="16" Click="btnExit_Click"
+                    Background="#4a5568" Foreground="White" BorderBrush="#4a5568" Cursor="Hand"
+                    Margin="5"/>
+        </StackPanel>
+    </Grid>
+</Window>

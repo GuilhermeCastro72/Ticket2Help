@@ -1,0 +1,39 @@
+﻿<Window x:Class="Ticket2Help.Admin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Admin - Gestão de Tickets" Height="600" Width="900" WindowStartupLocation="CenterScreen">
+    <Grid Margin="15">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- ListView para exibir tickets -->
+        <ListView x:Name="listView" Grid.Row="0" Margin="0,0,0,10" FontSize="14" SelectionMode="Single" SelectionChanged="listView_SelectionChanged">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="ID" Width="50" DisplayMemberBinding="{Binding Id}" />
+                    <GridViewColumn Header="Tipo" Width="120" DisplayMemberBinding="{Binding Tipo}" />
+                    <GridViewColumn Header="Tarefa" Width="200" DisplayMemberBinding="{Binding Task}" />
+                    <GridViewColumn Header="Descrição" Width="300" DisplayMemberBinding="{Binding Descricao}" />
+                    <GridViewColumn Header="Colaborador" Width="150" DisplayMemberBinding="{Binding CollaboratorName}" />
+                    <GridViewColumn Header="Status" Width="100" DisplayMemberBinding="{Binding Status}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <!-- Botões na parte inferior -->
+        <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Right" >
+            <Button x:Name="btnReply" Content="Responder Ticket" Width="140" Height="35" Margin="5,0"
+                    Background="#2196F3" Foreground="White" FontSize="14" Click="btnReply_Click"/>
+            <Button x:Name="btnDetails" Content="Detalhes" Width="100" Height="35" Margin="5,0"
+                    Background="#FF9800" Foreground="White" FontSize="14" Click="btnDetails_Click"/>
+            <Button x:Name="btnCheckUsers" Content="Ver Utilizadores" Width="130" Height="35" Margin="5,0"
+                    Background="#9C27B0" Foreground="White" FontSize="14" Click="btnCheckUsers_Click"/>
+            <Button x:Name="btnDashboard" Content="Dashboard" Width="110" Height="35" Margin="5,0"
+                    Background="#4CAF50" Foreground="White" FontSize="14" Click="btnDashboard_Click"/>
+            <Button x:Name="btnSair" Content="Sair" Width="80" Height="35" Margin="5,0"
+                    Background="#F44336" Foreground="White" FontSize="14" Click="btnSair_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

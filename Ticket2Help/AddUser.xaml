@@ -1,0 +1,35 @@
+﻿<Window x:Class="Ticket2Help.AddUser"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Adicionar Utilizador" Height="300" Width="400" WindowStartupLocation="CenterScreen">
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Nome -->
+        <TextBox x:Name="txtNome" Grid.Row="0" Height="35" Margin="0,0,0,10" FontSize="14"
+                 Text="Nome completo" Foreground="LightGray"
+                 GotFocus="TextBox_GotFocus" LostFocus="TextBox_LostFocus"/>
+
+        <!-- Username -->
+        <TextBox x:Name="txtUsername" Grid.Row="1" Height="35" Margin="0,0,0,10" FontSize="14"
+                 Text="Nome de utilizador" Foreground="LightGray"
+                 GotFocus="TextBox_GotFocus" LostFocus="TextBox_LostFocus"/>
+
+        <!-- Password -->
+        <PasswordBox x:Name="txtPassword" Grid.Row="2" Height="35" Margin="0,0,0,10" FontSize="14"/>
+
+        <!-- Botões -->
+        <StackPanel Grid.Row="4" Orientation="Horizontal" HorizontalAlignment="Right" >
+            <Button x:Name="btnAdd" Content="Adicionar" Width="100" Height="35" Margin="5,0"
+                    Background="#4CAF50" Foreground="White" FontSize="14" Click="btnAdd_Click"/>
+            <Button x:Name="btnExit" Content="Sair" Width="80" Height="35" Margin="5,0"
+                    Background="#F44336" Foreground="White" FontSize="14" Click="btnExit_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
