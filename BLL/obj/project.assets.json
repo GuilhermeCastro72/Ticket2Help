@@ -196,11 +196,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Guilherme\\Desktop\\Ticket2HelpV3Teste\\Ticker2Help\\BLL\\BLL.csproj",
+      "projectUniqueName": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\BLL\\BLL.csproj",
       "projectName": "BLL",
-      "projectPath": "C:\\Users\\Guilherme\\Desktop\\Ticket2HelpV3Teste\\Ticker2Help\\BLL\\BLL.csproj",
+      "projectPath": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\BLL\\BLL.csproj",
       "packagesPath": "C:\\Users\\Guilherme\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Guilherme\\Desktop\\Ticket2HelpV3Teste\\Ticker2Help\\BLL\\obj\\",
+      "outputPath": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\BLL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -221,8 +221,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Guilherme\\Desktop\\Ticket2HelpV3Teste\\Ticker2Help\\DAL\\DAL.csproj": {
-              "projectPath": "C:\\Users\\Guilherme\\Desktop\\Ticket2HelpV3Teste\\Ticker2Help\\DAL\\DAL.csproj"
+            "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\DAL\\DAL.csproj": {
+              "projectPath": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\DAL\\DAL.csproj"
             }
           }
         }

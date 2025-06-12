@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Guilherme\Desktop\Ticket2HelpV3Teste\Ticker2Help\Ticket2Help\obj\Debug\net8.0-windows\
+C:\Users\Guilherme\source\repos\NewRepo\Ticket2Help\obj\Debug\net8.0-windows\
 Ticket2Help
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-C:\Users\Guilherme\Desktop\Ticket2HelpV3Teste\Ticker2Help\Ticket2Help\App.xaml
+C:\Users\Guilherme\source\repos\NewRepo\Ticket2Help\App.xaml
 91994318537
 
 141934821641
-223-824027952
+223-1099077736
 AddUser.xaml;Admin.xaml;AdminReply.xaml;Dashboard.xaml;EditUser.xaml;ListUserTicket.xaml;MainWindow.xaml;User.xaml;UsersList.xaml;
 
-False
+True
 

@@ -178,11 +178,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Guilherme\\Desktop\\Ticket2HelpV3Teste\\Ticker2Help\\DAL\\DAL.csproj",
+      "projectUniqueName": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\DAL\\DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "C:\\Users\\Guilherme\\Desktop\\Ticket2HelpV3Teste\\Ticker2Help\\DAL\\DAL.csproj",
+      "projectPath": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\DAL\\DAL.csproj",
       "packagesPath": "C:\\Users\\Guilherme\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Guilherme\\Desktop\\Ticket2HelpV3Teste\\Ticker2Help\\DAL\\obj\\",
+      "outputPath": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

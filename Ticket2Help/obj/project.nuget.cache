@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q3LgIUVirJ8=",
+  "dgSpecHash": "69aDVJWH9Cw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Guilherme\\Desktop\\Ticket2HelpV3Teste\\Ticker2Help\\Ticket2Help\\Ticket2Help.csproj",
+  "projectFilePath": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\Ticket2Help.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Guilherme\\.nuget\\packages\\livecharts\\0.9.7\\livecharts.0.9.7.nupkg.sha512",
     "C:\\Users\\Guilherme\\.nuget\\packages\\livecharts.wpf\\0.9.7\\livecharts.wpf.0.9.7.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WHDdvhUUVZ8=",
+  "dgSpecHash": "6Mm5qx9JQ6M=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Guilherme\\Desktop\\Ticket2HelpV3Teste\\Ticker2Help\\BLL\\BLL.csproj",
+  "projectFilePath": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\BLL\\BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Guilherme\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\Guilherme\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
