@@ -13,8 +13,8 @@
                 <GridView>
                     <GridViewColumn Header="ID" DisplayMemberBinding="{Binding Id}" Width="80" />
                     <GridViewColumn Header="Tipo" DisplayMemberBinding="{Binding Tipo}" Width="150" />
-                    <GridViewColumn Header="Descrição" DisplayMemberBinding="{Binding Descricao}" Width="400" />
-                    <GridViewColumn Header="Data" DisplayMemberBinding="{Binding Data}" Width="130" />
+                    <GridViewColumn Header="Descrição" DisplayMemberBinding="{Binding Assunto}" Width="400" />
+                    <GridViewColumn Header="Data" DisplayMemberBinding="{Binding DataCriacao}" Width="130" />
                 </GridView>
             </ListView.View>
         </ListView>

@@ -34,7 +34,7 @@ namespace BLLTests
         [Fact]
         public void ValidateLogin_ValidCredentials_ReturnsTrue()
         {
-            string username = "validUser"!;
+            string username = "validUser";
             string password = "validPassword";
 
             _mockDal.Setup(dal => dal.GetUserCount(username, password)).Returns(1);

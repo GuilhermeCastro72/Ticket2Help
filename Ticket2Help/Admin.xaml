@@ -9,15 +9,15 @@
         </Grid.RowDefinitions>
 
         <!-- ListView para exibir tickets -->
-        <ListView x:Name="listView" Grid.Row="0" Margin="0,0,0,10" FontSize="14" SelectionMode="Single" SelectionChanged="listView_SelectionChanged">
+        <ListView x:Name="listView" Grid.Row="0" Margin="0,0,0,10" FontSize="15" SelectionMode="Single" SelectionChanged="listView_SelectionChanged">
             <ListView.View>
                 <GridView>
                     <GridViewColumn Header="ID" Width="50" DisplayMemberBinding="{Binding Id}" />
                     <GridViewColumn Header="Tipo" Width="120" DisplayMemberBinding="{Binding Tipo}" />
-                    <GridViewColumn Header="Tarefa" Width="200" DisplayMemberBinding="{Binding Task}" />
+                    <GridViewColumn Header="Tarefa" Width="150" DisplayMemberBinding="{Binding Informacao}" />
                     <GridViewColumn Header="Descrição" Width="300" DisplayMemberBinding="{Binding Descricao}" />
-                    <GridViewColumn Header="Colaborador" Width="150" DisplayMemberBinding="{Binding CollaboratorName}" />
-                    <GridViewColumn Header="Status" Width="100" DisplayMemberBinding="{Binding Status}" />
+                    <GridViewColumn Header="Colaborador" Width="150" DisplayMemberBinding="{Binding Nome}" />
+                    <GridViewColumn Header="Status" Width="100" DisplayMemberBinding="{Binding StatusTicket}" />
                 </GridView>
             </ListView.View>
         </ListView>

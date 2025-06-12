@@ -3,44 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|c:\\users\\guilherme\\source\\repos\\newrepo\\ticket2help\\dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|solutionrelative:ticket2help\\dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|c:\\users\\guilherme\\source\\repos\\newrepo\\ticket2help\\dashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|solutionrelative:ticket2help\\dashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|c:\\users\\guilherme\\source\\repos\\newrepo\\ticket2help\\ticket2help.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|solutionrelative:ticket2help\\ticket2help.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|c:\\users\\guilherme\\source\\repos\\newrepo\\ticket2help\\ticket2help.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|solutionrelative:ticket2help\\ticket2help.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|c:\\users\\guilherme\\source\\repos\\newrepo\\ticket2help\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|solutionrelative:ticket2help\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|c:\\users\\guilherme\\source\\repos\\newrepo\\ticket2help\\edituser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|solutionrelative:ticket2help\\edituser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|c:\\users\\guilherme\\source\\repos\\newrepo\\ticket2help\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|solutionrelative:ticket2help\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C391CC94-1503-4569-9790-E2693F99FBF1}|DAL\\DAL.csproj|c:\\users\\guilherme\\source\\repos\\newrepo\\dal\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C391CC94-1503-4569-9790-E2693F99FBF1}|DAL\\DAL.csproj|solutionrelative:dal\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{404B19B0-D404-4364-854A-36E53B3EA193}|BLL\\BLL.csproj|c:\\users\\guilherme\\source\\repos\\newrepo\\bll\\bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{404B19B0-D404-4364-854A-36E53B3EA193}|BLL\\BLL.csproj|solutionrelative:bll\\bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|c:\\users\\guilherme\\source\\repos\\newrepo\\ticket2help\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|solutionrelative:ticket2help\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C391CC94-1503-4569-9790-E2693F99FBF1}|DAL\\DAL.csproj|c:\\users\\guilherme\\source\\repos\\newrepo\\dal\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C391CC94-1503-4569-9790-E2693F99FBF1}|DAL\\DAL.csproj|solutionrelative:dal\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|c:\\users\\guilherme\\source\\repos\\newrepo\\ticket2help\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|solutionrelative:ticket2help\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|c:\\users\\guilherme\\source\\repos\\newrepo\\ticket2help\\userslist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|solutionrelative:ticket2help\\userslist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|c:\\users\\guilherme\\source\\repos\\newrepo\\ticket2help\\user.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|solutionrelative:ticket2help\\user.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|c:\\users\\guilherme\\source\\repos\\newrepo\\ticket2help\\listuserticket.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|solutionrelative:ticket2help\\listuserticket.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{404B19B0-D404-4364-854A-36E53B3EA193}|BLL\\BLL.csproj|c:\\users\\guilherme\\source\\repos\\newrepo\\bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{404B19B0-D404-4364-854A-36E53B3EA193}|BLL\\BLL.csproj|solutionrelative:bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C391CC94-1503-4569-9790-E2693F99FBF1}|DAL\\DAL.csproj|c:\\users\\guilherme\\source\\repos\\newrepo\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C391CC94-1503-4569-9790-E2693F99FBF1}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|c:\\users\\guilherme\\source\\repos\\newrepo\\ticket2help\\adminreply.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|solutionrelative:ticket2help\\adminreply.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|c:\\users\\guilherme\\source\\repos\\newrepo\\ticket2help\\adminreply.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|solutionrelative:ticket2help\\adminreply.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|c:\\users\\guilherme\\source\\repos\\newrepo\\ticket2help\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|solutionrelative:ticket2help\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|c:\\users\\guilherme\\source\\repos\\newrepo\\ticket2help\\adduser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|solutionrelative:ticket2help\\adduser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|c:\\users\\guilherme\\source\\repos\\newrepo\\ticket2help\\edituser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|solutionrelative:ticket2help\\edituser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|c:\\users\\guilherme\\source\\repos\\newrepo\\ticket2help\\ticket2help.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|solutionrelative:ticket2help\\ticket2help.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|c:\\users\\guilherme\\source\\repos\\newrepo\\ticket2help\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,40 +75,24 @@
       "RelativeMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|solutionrelative:ticket2help\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|c:\\users\\guilherme\\source\\repos\\newrepo\\ticket2help\\user.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|solutionrelative:ticket2help\\user.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|c:\\users\\guilherme\\source\\repos\\newrepo\\ticket2help\\placeholderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|solutionrelative:ticket2help\\placeholderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|c:\\users\\guilherme\\source\\repos\\newrepo\\ticket2help\\userslist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|solutionrelative:ticket2help\\userslist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|c:\\users\\guilherme\\source\\repos\\newrepo\\ticket2help\\dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|solutionrelative:ticket2help\\dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|c:\\users\\guilherme\\source\\repos\\newrepo\\ticket2help\\listuserticket.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|solutionrelative:ticket2help\\listuserticket.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|c:\\users\\guilherme\\source\\repos\\newrepo\\ticket2help\\dashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|solutionrelative:ticket2help\\dashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|c:\\users\\guilherme\\source\\repos\\newrepo\\ticket2help\\adminreply.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|solutionrelative:ticket2help\\adminreply.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|c:\\users\\guilherme\\source\\repos\\newrepo\\ticket2help\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|solutionrelative:ticket2help\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|c:\\users\\guilherme\\source\\repos\\newrepo\\ticket2help\\adduser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|solutionrelative:ticket2help\\adduser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|c:\\users\\guilherme\\source\\repos\\newrepo\\ticket2help\\adminreply.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|solutionrelative:ticket2help\\adminreply.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C391CC94-1503-4569-9790-E2693F99FBF1}|DAL\\DAL.csproj|c:\\users\\guilherme\\source\\repos\\newrepo\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C391CC94-1503-4569-9790-E2693F99FBF1}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{404B19B0-D404-4364-854A-36E53B3EA193}|BLL\\BLL.csproj|c:\\users\\guilherme\\source\\repos\\newrepo\\bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{404B19B0-D404-4364-854A-36E53B3EA193}|BLL\\BLL.csproj|solutionrelative:bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|c:\\users\\guilherme\\source\\repos\\newrepo\\ticket2help\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B06567-86E1-4C3F-A95E-CD8ECC43D4DF}|Ticket2Help\\Ticket2Help.csproj|solutionrelative:ticket2help\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Guilherme\\Desktop\\Ticket2HelpV3Teste\\Ticker2Help\\WpfApp1\\AdminReply.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
@@ -140,219 +144,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Ticket2Help",
-              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\Ticket2Help.csproj",
-              "RelativeDocumentMoniker": "Ticket2Help\\Ticket2Help.csproj",
-              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\Ticket2Help.csproj",
-              "RelativeToolTip": "Ticket2Help\\Ticket2Help.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-12T20:21:36.241Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Ticket2Help.csproj",
-              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\Ticket2Help.csproj",
-              "RelativeDocumentMoniker": "Ticket2Help\\Ticket2Help.csproj",
-              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\Ticket2Help.csproj",
-              "RelativeToolTip": "Ticket2Help\\Ticket2Help.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-08T13:46:12.269Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DashboardViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\DashboardViewModel.cs",
-              "RelativeDocumentMoniker": "Ticket2Help\\DashboardViewModel.cs",
-              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\DashboardViewModel.cs",
-              "RelativeToolTip": "Ticket2Help\\DashboardViewModel.cs",
-              "ViewState": "AgIAAGQAAAAAAAAAAAAYwIYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T13:49:04.597Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Dashboard.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\Dashboard.xaml.cs",
-              "RelativeDocumentMoniker": "Ticket2Help\\Dashboard.xaml.cs",
-              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\Dashboard.xaml.cs",
-              "RelativeToolTip": "Ticket2Help\\Dashboard.xaml.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T13:52:44.156Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Dashboard.xaml",
-              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\Dashboard.xaml",
-              "RelativeDocumentMoniker": "Ticket2Help\\Dashboard.xaml",
-              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\Dashboard.xaml",
-              "RelativeToolTip": "Ticket2Help\\Dashboard.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-08T13:48:49.191Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AdminReply.xaml",
-              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\AdminReply.xaml",
-              "RelativeDocumentMoniker": "Ticket2Help\\AdminReply.xaml",
-              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\AdminReply.xaml",
-              "RelativeToolTip": "Ticket2Help\\AdminReply.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-08T13:48:39.707Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "PlaceholderService.cs",
-              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\PlaceholderService.cs",
-              "RelativeDocumentMoniker": "Ticket2Help\\PlaceholderService.cs",
-              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\PlaceholderService.cs",
-              "RelativeToolTip": "Ticket2Help\\PlaceholderService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T14:07:57.867Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "Ticket2Help\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\MainWindow.xaml",
-              "RelativeToolTip": "Ticket2Help\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-08T13:45:42.907Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "AddUser.xaml",
-              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\AddUser.xaml",
-              "RelativeDocumentMoniker": "Ticket2Help\\AddUser.xaml",
-              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\AddUser.xaml",
-              "RelativeToolTip": "Ticket2Help\\AddUser.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-08T13:48:36.729Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Admin.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\Admin.xaml.cs",
-              "RelativeDocumentMoniker": "Ticket2Help\\Admin.xaml.cs",
-              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\Admin.xaml.cs",
-              "RelativeToolTip": "Ticket2Help\\Admin.xaml.cs",
-              "ViewState": "AgIAAG8AAAAAAAAAAAAEwIUAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T14:11:02.302Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "User.xaml",
-              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\User.xaml",
-              "RelativeDocumentMoniker": "Ticket2Help\\User.xaml",
-              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\User.xaml",
-              "RelativeToolTip": "Ticket2Help\\User.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-08T13:48:53.12Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "DAL.cs",
               "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\DAL\\DAL.cs",
               "RelativeDocumentMoniker": "DAL\\DAL.cs",
               "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\DAL\\DAL.cs",
               "RelativeToolTip": "DAL\\DAL.cs",
-              "ViewState": "AgIAAG8BAAAAAAAAAAArwIsBAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAALwAAAAAAAAAAAAYwNcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T13:57:31.192Z"
+              "WhenOpened": "2025-06-12T21:21:52.498Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EditUser.xaml",
-              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\EditUser.xaml",
-              "RelativeDocumentMoniker": "Ticket2Help\\EditUser.xaml",
-              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\EditUser.xaml",
-              "RelativeToolTip": "Ticket2Help\\EditUser.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-08T13:49:03.304Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "User.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\User.xaml.cs",
-              "RelativeDocumentMoniker": "Ticket2Help\\User.xaml.cs",
-              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\User.xaml.cs",
-              "RelativeToolTip": "Ticket2Help\\User.xaml.cs",
-              "ViewState": "AgIAAOcAAAAAAAAAAAAowAMBAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T14:17:47.777Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "Ticket2Help\\AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\AssemblyInfo.cs",
-              "RelativeToolTip": "Ticket2Help\\AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T13:49:05.194Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Ticket2Help\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\MainWindow.xaml.cs",
-              "RelativeToolTip": "Ticket2Help\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T13:45:42.66Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "UsersList.xaml",
-              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\UsersList.xaml",
-              "RelativeDocumentMoniker": "Ticket2Help\\UsersList.xaml",
-              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\UsersList.xaml",
-              "RelativeToolTip": "Ticket2Help\\UsersList.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-08T13:49:00.544Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ListUserTicket.xaml",
-              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\ListUserTicket.xaml",
-              "RelativeDocumentMoniker": "Ticket2Help\\ListUserTicket.xaml",
-              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\ListUserTicket.xaml",
-              "RelativeToolTip": "Ticket2Help\\ListUserTicket.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-08T13:49:02.643Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "Admin.xaml",
               "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\Admin.xaml",
               "RelativeDocumentMoniker": "Ticket2Help\\Admin.xaml",
@@ -363,19 +173,30 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "AdminReply.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\AdminReply.xaml.cs",
-              "RelativeDocumentMoniker": "Ticket2Help\\AdminReply.xaml.cs",
-              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\AdminReply.xaml.cs",
-              "RelativeToolTip": "Ticket2Help\\AdminReply.xaml.cs",
-              "ViewState": "AgIAAIIAAAAAAAAAAAAcwKIAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Admin.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\Admin.xaml.cs",
+              "RelativeDocumentMoniker": "Ticket2Help\\Admin.xaml.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\Admin.xaml.cs",
+              "RelativeToolTip": "Ticket2Help\\Admin.xaml.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAowI4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T13:53:29.642Z"
+              "WhenOpened": "2025-06-08T14:11:02.302Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 17,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Ticket2Help\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\MainWindow.xaml",
+              "RelativeToolTip": "Ticket2Help\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-08T13:45:42.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "DAL.csproj",
               "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\DAL\\DAL.csproj",
               "RelativeDocumentMoniker": "DAL\\DAL.csproj",
@@ -387,7 +208,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 4,
+              "Title": "UsersList.xaml",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\UsersList.xaml",
+              "RelativeDocumentMoniker": "Ticket2Help\\UsersList.xaml",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\UsersList.xaml",
+              "RelativeToolTip": "Ticket2Help\\UsersList.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-08T13:49:00.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.xaml",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\User.xaml",
+              "RelativeDocumentMoniker": "Ticket2Help\\User.xaml",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\User.xaml",
+              "RelativeToolTip": "Ticket2Help\\User.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-08T13:48:53.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListUserTicket.xaml",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\ListUserTicket.xaml",
+              "RelativeDocumentMoniker": "Ticket2Help\\ListUserTicket.xaml",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\ListUserTicket.xaml",
+              "RelativeToolTip": "Ticket2Help\\ListUserTicket.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-08T13:49:02.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "BLL.csproj",
               "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\BLL\\BLL.csproj",
               "RelativeDocumentMoniker": "BLL\\BLL.csproj",
@@ -399,7 +254,158 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 12,
+              "Title": "AddUser.xaml",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\AddUser.xaml",
+              "RelativeDocumentMoniker": "Ticket2Help\\AddUser.xaml",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\AddUser.xaml",
+              "RelativeToolTip": "Ticket2Help\\AddUser.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-08T13:48:36.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\User.xaml.cs",
+              "RelativeDocumentMoniker": "Ticket2Help\\User.xaml.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\User.xaml.cs",
+              "RelativeToolTip": "Ticket2Help\\User.xaml.cs",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAowAMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T14:17:47.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Ticket2Help\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Ticket2Help\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T13:45:42.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminReply.xaml",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\AdminReply.xaml",
+              "RelativeDocumentMoniker": "Ticket2Help\\AdminReply.xaml",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\AdminReply.xaml",
+              "RelativeToolTip": "Ticket2Help\\AdminReply.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-08T13:48:39.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminReply.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\AdminReply.xaml.cs",
+              "RelativeDocumentMoniker": "Ticket2Help\\AdminReply.xaml.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\AdminReply.xaml.cs",
+              "RelativeToolTip": "Ticket2Help\\AdminReply.xaml.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAUwK8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T13:53:29.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\App.xaml",
+              "RelativeDocumentMoniker": "Ticket2Help\\App.xaml",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\App.xaml",
+              "RelativeToolTip": "Ticket2Help\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-12T21:12:37.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Ticket2Help.csproj",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\Ticket2Help.csproj",
+              "RelativeDocumentMoniker": "Ticket2Help\\Ticket2Help.csproj",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\Ticket2Help.csproj",
+              "RelativeToolTip": "Ticket2Help\\Ticket2Help.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-08T13:46:12.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EditUser.xaml",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\EditUser.xaml",
+              "RelativeDocumentMoniker": "Ticket2Help\\EditUser.xaml",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\EditUser.xaml",
+              "RelativeToolTip": "Ticket2Help\\EditUser.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-08T13:49:03.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PlaceholderService.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\PlaceholderService.cs",
+              "RelativeDocumentMoniker": "Ticket2Help\\PlaceholderService.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\PlaceholderService.cs",
+              "RelativeToolTip": "Ticket2Help\\PlaceholderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T14:07:57.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Dashboard.xaml",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\Dashboard.xaml",
+              "RelativeDocumentMoniker": "Ticket2Help\\Dashboard.xaml",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\Dashboard.xaml",
+              "RelativeToolTip": "Ticket2Help\\Dashboard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-08T13:48:49.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Ticket2Help\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\AssemblyInfo.cs",
+              "RelativeToolTip": "Ticket2Help\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T13:49:05.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DashboardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\DashboardViewModel.cs",
+              "RelativeDocumentMoniker": "Ticket2Help\\DashboardViewModel.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\DashboardViewModel.cs",
+              "RelativeToolTip": "Ticket2Help\\DashboardViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T13:49:04.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Dashboard.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\Dashboard.xaml.cs",
+              "RelativeDocumentMoniker": "Ticket2Help\\Dashboard.xaml.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\Ticket2Help\\Dashboard.xaml.cs",
+              "RelativeToolTip": "Ticket2Help\\Dashboard.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T13:52:44.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "DashboardViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Guilherme\\Desktop\\Ticket2HelpV3Teste\\Ticker2Help\\WpfApp1\\DashboardViewModel.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\Ticket2HelpV3Teste\\Ticker2Help\\WpfApp1\\DashboardViewModel.cs",
@@ -410,7 +416,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "User.xaml",
               "DocumentMoniker": "C:\\Users\\Guilherme\\Desktop\\Ticket2HelpV3Teste\\Ticker2Help\\WpfApp1\\User.xaml",
               "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\Ticket2HelpV3Teste\\Ticker2Help\\WpfApp1\\User.xaml",
@@ -421,7 +427,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "AdminReply.xaml",
               "DocumentMoniker": "C:\\Users\\Guilherme\\Desktop\\Ticket2HelpV3Teste\\Ticker2Help\\WpfApp1\\AdminReply.xaml",
               "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\Ticket2HelpV3Teste\\Ticker2Help\\WpfApp1\\AdminReply.xaml",
@@ -432,7 +438,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "UsersList.xaml",
               "DocumentMoniker": "C:\\Users\\Guilherme\\Desktop\\Ticket2HelpV3Teste\\Ticker2Help\\WpfApp1\\UsersList.xaml",
               "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\Ticket2HelpV3Teste\\Ticker2Help\\WpfApp1\\UsersList.xaml",
@@ -443,7 +449,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Guilherme\\Desktop\\Ticket2HelpV3Teste\\Ticker2Help\\WpfApp1\\MainWindow.xaml",
               "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\Ticket2HelpV3Teste\\Ticker2Help\\WpfApp1\\MainWindow.xaml",
@@ -454,7 +460,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "ListUserTicket.xaml",
               "DocumentMoniker": "C:\\Users\\Guilherme\\Desktop\\Ticket2HelpV3Teste\\Ticker2Help\\WpfApp1\\ListUserTicket.xaml",
               "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\Ticket2HelpV3Teste\\Ticker2Help\\WpfApp1\\ListUserTicket.xaml",
@@ -465,7 +471,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "Dashboard.xaml",
               "DocumentMoniker": "C:\\Users\\Guilherme\\Desktop\\Ticket2HelpV3Teste\\Ticker2Help\\WpfApp1\\Dashboard.xaml",
               "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\Ticket2HelpV3Teste\\Ticker2Help\\WpfApp1\\Dashboard.xaml",
@@ -476,7 +482,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\Guilherme\\Desktop\\Ticket2HelpV3Teste\\Ticker2Help\\WpfApp1\\App.xaml",
               "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\Ticket2HelpV3Teste\\Ticker2Help\\WpfApp1\\App.xaml",
@@ -487,7 +493,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "Admin.xaml",
               "DocumentMoniker": "C:\\Users\\Guilherme\\Desktop\\Ticket2HelpV3Teste\\Ticker2Help\\WpfApp1\\Admin.xaml",
               "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\Ticket2HelpV3Teste\\Ticker2Help\\WpfApp1\\Admin.xaml",
@@ -498,7 +504,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "AddUser.xaml",
               "DocumentMoniker": "C:\\Users\\Guilherme\\Desktop\\Ticket2HelpV3Teste\\Ticker2Help\\WpfApp1\\AddUser.xaml",
               "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\Ticket2HelpV3Teste\\Ticker2Help\\WpfApp1\\AddUser.xaml",
@@ -509,7 +515,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "EditUser.xaml",
               "DocumentMoniker": "C:\\Users\\Guilherme\\Desktop\\Ticket2HelpV3Teste\\Ticker2Help\\WpfApp1\\EditUser.xaml",
               "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\Ticket2HelpV3Teste\\Ticker2Help\\WpfApp1\\EditUser.xaml",
@@ -520,7 +526,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "AddUser.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Guilherme\\Desktop\\Ticket2HelpV3Teste\\Ticker2Help\\WpfApp1\\AddUser.xaml.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\Ticket2HelpV3Teste\\Ticker2Help\\WpfApp1\\AddUser.xaml.cs",
@@ -531,7 +537,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "BLL.csproj",
               "DocumentMoniker": "C:\\Users\\Guilherme\\Desktop\\Ticket2HelpV3Teste\\Ticker2Help\\ClassLibrary1\\BLL.csproj",
               "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\Ticket2HelpV3Teste\\Ticker2Help\\ClassLibrary1\\BLL.csproj",
@@ -542,7 +548,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "Ticket2Help.csproj",
               "DocumentMoniker": "C:\\Users\\Guilherme\\Desktop\\Ticket2HelpV3Teste\\Ticker2Help\\WpfApp1\\Ticket2Help.csproj",
               "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\Ticket2HelpV3Teste\\Ticker2Help\\WpfApp1\\Ticket2Help.csproj",
@@ -550,6 +556,25 @@
               "RelativeToolTip": "..\\..\\..\\Desktop\\Ticket2HelpV3Teste\\Ticker2Help\\WpfApp1\\Ticket2Help.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-06-08T13:07:28.854Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BLL.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\BLL\\BLL.cs",
+              "RelativeDocumentMoniker": "BLL\\BLL.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\NewRepo\\BLL\\BLL.cs",
+              "RelativeToolTip": "BLL\\BLL.cs",
+              "ViewState": "AgIAAO0AAAAAAAAAAAAcwAoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T21:15:53.018Z",
+              "EditorCaption": ""
             }
           ]
         }

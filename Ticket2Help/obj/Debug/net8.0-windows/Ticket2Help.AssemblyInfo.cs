@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ticket2Help")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7fc17b46e43c27adb49e3ff8330051445b5c42c7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40ed8e69ffbe60be6271a1de07ec58035c956557")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ticket2Help")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ticket2Help")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
