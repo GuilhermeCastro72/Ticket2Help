@@ -10,7 +10,11 @@
         </Grid.RowDefinitions>
 
         <!-- Gráfico de pizza -->
-        <lvc:PieChart Grid.Row="0" Name="pieChart" LegendLocation="Right" Margin="10" Loaded="PieChart_Loaded" />
+        <lvc:PieChart Grid.Row="0"
+              Series="{Binding TicketsAttendedSeries}"
+              LegendLocation="Right"
+              Margin="10" />
+
 
         <!-- Botões no rodapé -->
         <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,10,0,0">
