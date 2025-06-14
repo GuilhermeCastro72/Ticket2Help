@@ -39,7 +39,7 @@ namespace Ticket2Help
         public User()
         {
             InitializeComponent();
-            this.Background = new SolidColorBrush(Color.FromRgb(240, 248, 255)); // Azul claro (AliceBlue)
+            this.Background = new SolidColorBrush(Color.FromRgb(240, 248, 255)); // Azul claro 
             txtTask.Background = Brushes.WhiteSmoke;
             txtDesc.Background = Brushes.WhiteSmoke;
             btnSubmit.Background = new SolidColorBrush(Color.FromRgb(0, 120, 215)); // Botão azul

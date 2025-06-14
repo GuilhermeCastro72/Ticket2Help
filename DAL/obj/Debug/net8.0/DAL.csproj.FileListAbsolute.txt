@@ -34,3 +34,16 @@ C:\Users\Guilherme\Desktop\Ticket2Help-main22222\DAL\obj\Debug\net8.0\DAL.dll
 C:\Users\Guilherme\Desktop\Ticket2Help-main22222\DAL\obj\Debug\net8.0\refint\DAL.dll
 C:\Users\Guilherme\Desktop\Ticket2Help-main22222\DAL\obj\Debug\net8.0\DAL.pdb
 C:\Users\Guilherme\Desktop\Ticket2Help-main22222\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\Guilherme\source\repos\NewRepo\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\Guilherme\source\repos\NewRepo\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\Guilherme\source\repos\NewRepo\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\Guilherme\source\repos\NewRepo\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Guilherme\source\repos\NewRepo\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\source\repos\NewRepo\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Guilherme\source\repos\NewRepo\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\Guilherme\source\repos\NewRepo\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\source\repos\NewRepo\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+C:\Users\Guilherme\source\repos\NewRepo\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\Guilherme\source\repos\NewRepo\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\Guilherme\source\repos\NewRepo\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\Guilherme\source\repos\NewRepo\DAL\obj\Debug\net8.0\ref\DAL.dll

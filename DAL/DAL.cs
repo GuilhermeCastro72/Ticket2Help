@@ -9,7 +9,7 @@ namespace Ticket2Help
     public class DAL
     {
         /// <summary>
-        /// String de conexão com o banco de dados.
+        /// String de conexão com a base de dados.
         /// </summary>
         private static string conStr = @"Data Source=DESKTOP-I4BLJ4C\SQLEXPRESS;Initial Catalog=Ticket2Help;Integrated Security=True;Connect Timeout=30;Encrypt=False;";
 

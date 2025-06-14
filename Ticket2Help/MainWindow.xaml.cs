@@ -20,6 +20,10 @@ namespace Ticket2Help
         {
             string username = txtUsername.Text;
             string password = txtPassword.Password;
+            string userId = DAL.FetchUserID(username);
+            UserSession.SetID(userId);
+
+
 
             if (BLL.ValidateLogin(username, password))
             {

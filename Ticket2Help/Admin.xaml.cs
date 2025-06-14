@@ -131,9 +131,11 @@ namespace Ticket2Help
 
         if (ticketDetails != null)
         {
-            string colaboradorIdAtend = User.getID();
+                    string colaboradorIdAtend = UserSession.GetID();
+                    MessageBox.Show("ID do colaborador: " + colaboradorIdAtend);
 
-            if (BLL.UpdateTicketStatus(ticketDetails.Id, colaboradorIdAtend))
+
+                    if (BLL.UpdateTicketStatus(ticketDetails.Id, colaboradorIdAtend))
             {
                 Admin_Reply replyForm = new Admin_Reply(ticketDetails.Id, ticketDetails.Tipo, ticketDetails.Task, ticketDetails.Descricao);
                 replyForm.ShowDialog();
@@ -161,3 +163,18 @@ namespace Ticket2Help
         }
     }
 }
+public static class UserSession
+{
+    public static string ID { get; private set; }
+
+    public static void SetID(string id)
+    {
+        ID = id;
+    }
+
+    public static string GetID()
+    {
+        return ID;
+    }
+}
+
