@@ -1,0 +1,6 @@
+var searchData=
+[
+  ['setpropertyvalue_0',['SetPropertyValue',['../class_xaml_generated_namespace_1_1_generated_internal_type_helper.html#ade0f04c0f7b18dd5b170e071d5534d38',1,'XamlGeneratedNamespace.GeneratedInternalTypeHelper.SetPropertyValue(System.Reflection.PropertyInfo propertyInfo, object target, object value, System.Globalization.CultureInfo culture)'],['../class_xaml_generated_namespace_1_1_generated_internal_type_helper.html#ade0f04c0f7b18dd5b170e071d5534d38',1,'XamlGeneratedNamespace.GeneratedInternalTypeHelper.SetPropertyValue(System.Reflection.PropertyInfo propertyInfo, object target, object value, System.Globalization.CultureInfo culture)'],['../class_xaml_generated_namespace_1_1_generated_internal_type_helper.html#ade0f04c0f7b18dd5b170e071d5534d38',1,'XamlGeneratedNamespace.GeneratedInternalTypeHelper.SetPropertyValue(System.Reflection.PropertyInfo propertyInfo, object target, object value, System.Globalization.CultureInfo culture)']]],
+  ['statusatendimento_1',['StatusAtendimento',['../class_ticket2_help_1_1_b_l_l_1_1_ticket_details.html#a86b0aac93ce06dfa4329b5ed324abfde',1,'Ticket2Help::BLL::TicketDetails']]],
+  ['statusticket_2',['StatusTicket',['../class_ticket2_help_1_1_b_l_l_1_1_ticket_details.html#aca1ea12d4e72436ad7f0d6bd5f7f03ca',1,'Ticket2Help::BLL::TicketDetails']]]
+];

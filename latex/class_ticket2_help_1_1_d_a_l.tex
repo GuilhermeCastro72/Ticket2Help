@@ -1,0 +1,375 @@
+\doxysection{Ticket2\+Help.\+DAL Class Reference}
+\hypertarget{class_ticket2_help_1_1_d_a_l}{}\label{class_ticket2_help_1_1_d_a_l}\index{Ticket2Help.DAL@{Ticket2Help.DAL}}
+
+
+Classe de acesso a dados (Data Access Layer -\/ \doxylink{class_ticket2_help_1_1_d_a_l}{DAL}) para a aplicação \doxylink{namespace_ticket2_help}{Ticket2\+Help}.  
+
+
+\doxysubsubsection*{Static Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+static bool \mbox{\hyperlink{class_ticket2_help_1_1_d_a_l_a2916ba3baaf208e8e58175df18b42d4f}{Exec\+BD}} (string sql)
+\begin{DoxyCompactList}\small\item\em Executa um comando SQL que não retorna resultados. \end{DoxyCompactList}\item 
+static string \mbox{\hyperlink{class_ticket2_help_1_1_d_a_l_aafd78cdce6217d55a49e0e138d529c03}{Fetch\+User\+ID}} (string username)
+\begin{DoxyCompactList}\small\item\em Busca o ID de um usuário pelo nome de usuário. \end{DoxyCompactList}\item 
+static bool \mbox{\hyperlink{class_ticket2_help_1_1_d_a_l_a222e11d7dc68c9a7fb5bd1c46c470cb8}{Fetch\+Admin\+Status}} (string username, string password)
+\begin{DoxyCompactList}\small\item\em Verifica o status de administrador de um usuário. \end{DoxyCompactList}\item 
+static int \mbox{\hyperlink{class_ticket2_help_1_1_d_a_l_af5ad8ce037c20632748fb675a0b65639}{Get\+User\+Count}} (string username, string password)
+\begin{DoxyCompactList}\small\item\em Conta o número de usuários com as credenciais fornecidas. \end{DoxyCompactList}\item 
+static Data\+Table \mbox{\hyperlink{class_ticket2_help_1_1_d_a_l_a156774a2005a01b541a0432f5407044a}{Get\+Tickets\+By\+Colaborador\+Id}} (string colaborador\+Id)
+\begin{DoxyCompactList}\small\item\em Obtém tickets pelo ID do colaborador. \end{DoxyCompactList}\item 
+static Data\+Table \mbox{\hyperlink{class_ticket2_help_1_1_d_a_l_a9ce7f8e8a50ab821a05973f31843c178}{Get\+All\+Tickets\+With\+Collaborator\+Name}} ()
+\begin{DoxyCompactList}\small\item\em Obtém todos os tickets com o nome do colaborador. \end{DoxyCompactList}\item 
+static Data\+Table \mbox{\hyperlink{class_ticket2_help_1_1_d_a_l_a305b63fe6b5a55949a2cd0e1cdea71e7}{Get\+Ticket\+Details\+By\+Id}} (string id)
+\begin{DoxyCompactList}\small\item\em Obtém detalhes de um ticket pelo ID. \end{DoxyCompactList}\item 
+static Data\+Table \mbox{\hyperlink{class_ticket2_help_1_1_d_a_l_a6920e715041932cbd4304f4834f02443}{Get\+Oldest\+Pending\+Ticket}} ()
+\begin{DoxyCompactList}\small\item\em Obtém o ticket pendente mais antigo. \end{DoxyCompactList}\item 
+static bool \mbox{\hyperlink{class_ticket2_help_1_1_d_a_l_a3e559d87d31b62e8309c506d08589fcf}{Update\+Ticket\+Status}} (string ticket\+Id, string colaborador\+Id\+Atend, string data\+Atendimento)
+\begin{DoxyCompactList}\small\item\em Atualiza o status de um ticket. \end{DoxyCompactList}\item 
+static bool \mbox{\hyperlink{class_ticket2_help_1_1_d_a_l_a00b2bb1669b35ed6e1ef260ca39b4d2f}{Update\+Ticket}} (string ticket\+Id, string status\+Ticket, string status\+Atend, string info\+Atend, string data\+Atendimento)
+\begin{DoxyCompactList}\small\item\em Atualiza um ticket com novas informações. \end{DoxyCompactList}\item 
+static Data\+Table \mbox{\hyperlink{class_ticket2_help_1_1_d_a_l_ad33992e66a7bcaeb0fd38c8b455405ac}{Get\+All\+Colaboradores}} ()
+\begin{DoxyCompactList}\small\item\em Obtém todos os colaboradores. \end{DoxyCompactList}\item 
+static bool \mbox{\hyperlink{class_ticket2_help_1_1_d_a_l_afe2c98ed7969d6b1762aa23c81bfa87e}{Username\+Exists}} (string username)
+\begin{DoxyCompactList}\small\item\em Verifica se um nome de usuário já existe. \end{DoxyCompactList}\item 
+static bool \mbox{\hyperlink{class_ticket2_help_1_1_d_a_l_a0f0a8222221c0492ef50b41c53560fc0}{Add\+Colaborador}} (string nome, string username, string password)
+\begin{DoxyCompactList}\small\item\em Adiciona um novo colaborador. \end{DoxyCompactList}\item 
+static Data\+Table \mbox{\hyperlink{class_ticket2_help_1_1_d_a_l_aff1f7a035ad940999dd01e74e6f28205}{Get\+Ticket\+Details}} (int id)
+\begin{DoxyCompactList}\small\item\em Obtém os detalhes de um ticket pelo ID. \end{DoxyCompactList}\item 
+static bool \mbox{\hyperlink{class_ticket2_help_1_1_d_a_l_a03bd40b150c0baecf2f7b0a345de1505}{Delete\+Colaborador}} (int id)
+\begin{DoxyCompactList}\small\item\em Exclui um colaborador pelo ID. \end{DoxyCompactList}\item 
+\Hypertarget{class_ticket2_help_1_1_d_a_l_a057fe2872705be4ba0812cf8a1475be9}\label{class_ticket2_help_1_1_d_a_l_a057fe2872705be4ba0812cf8a1475be9} 
+static int int int atendido {\bfseries Get\+Ticket\+Counts} ()
+\item 
+\Hypertarget{class_ticket2_help_1_1_d_a_l_afcb561e334fd2a221079bd9f7efbc2cc}\label{class_ticket2_help_1_1_d_a_l_afcb561e334fd2a221079bd9f7efbc2cc} 
+static int int nao\+Resolvido {\bfseries Get\+Resolved\+Ticket\+Counts} ()
+\end{DoxyCompactItemize}
+\doxysubsubsection*{Static Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+static int \mbox{\hyperlink{class_ticket2_help_1_1_d_a_l_abfd397a492c0fcfae9b7be38fc4edff5}{por\+Atender}}
+\begin{DoxyCompactList}\small\item\em Obtém a contagem de tickets por status. \end{DoxyCompactList}\item 
+\Hypertarget{class_ticket2_help_1_1_d_a_l_aa45f710d95bcb6e50f53c7016643d777}\label{class_ticket2_help_1_1_d_a_l_aa45f710d95bcb6e50f53c7016643d777} 
+static int int {\bfseries em\+Atendimento}
+\item 
+static int \mbox{\hyperlink{class_ticket2_help_1_1_d_a_l_ad8cea407bbad98109eb0d56fa8306cf8}{resolvido}}
+\begin{DoxyCompactList}\small\item\em Obtém a contagem de tickets resolvidos e não resolvidos. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Classe de acesso a dados (Data Access Layer -\/ \doxylink{class_ticket2_help_1_1_d_a_l}{DAL}) para a aplicação \doxylink{namespace_ticket2_help}{Ticket2\+Help}. 
+
+\label{doc-func-members}
+\Hypertarget{class_ticket2_help_1_1_d_a_l_doc-func-members}
+\doxysubsection{Member Function Documentation}
+\Hypertarget{class_ticket2_help_1_1_d_a_l_a0f0a8222221c0492ef50b41c53560fc0}\index{Ticket2Help.DAL@{Ticket2Help.DAL}!AddColaborador@{AddColaborador}}
+\index{AddColaborador@{AddColaborador}!Ticket2Help.DAL@{Ticket2Help.DAL}}
+\doxysubsubsection{\texorpdfstring{AddColaborador()}{AddColaborador()}}
+{\footnotesize\ttfamily \label{class_ticket2_help_1_1_d_a_l_a0f0a8222221c0492ef50b41c53560fc0} 
+bool Ticket2\+Help.\+DAL.\+Add\+Colaborador (\begin{DoxyParamCaption}\item[{string}]{nome}{, }\item[{string}]{username}{, }\item[{string}]{password}{}\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+Adiciona um novo colaborador. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em nome} & Nome do colaborador.\\
+\hline
+{\em username} & Nome de usuário do colaborador.\\
+\hline
+{\em password} & Senha do colaborador.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+True se a inserção for bem-\/sucedida, false caso contrário.
+\end{DoxyReturn}
+\Hypertarget{class_ticket2_help_1_1_d_a_l_a03bd40b150c0baecf2f7b0a345de1505}\index{Ticket2Help.DAL@{Ticket2Help.DAL}!DeleteColaborador@{DeleteColaborador}}
+\index{DeleteColaborador@{DeleteColaborador}!Ticket2Help.DAL@{Ticket2Help.DAL}}
+\doxysubsubsection{\texorpdfstring{DeleteColaborador()}{DeleteColaborador()}}
+{\footnotesize\ttfamily \label{class_ticket2_help_1_1_d_a_l_a03bd40b150c0baecf2f7b0a345de1505} 
+bool Ticket2\+Help.\+DAL.\+Delete\+Colaborador (\begin{DoxyParamCaption}\item[{int}]{id}{}\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+Exclui um colaborador pelo ID. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em id} & ID do colaborador.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+True se a exclusão for bem-\/sucedida, false caso contrário.
+\end{DoxyReturn}
+\Hypertarget{class_ticket2_help_1_1_d_a_l_a2916ba3baaf208e8e58175df18b42d4f}\index{Ticket2Help.DAL@{Ticket2Help.DAL}!ExecBD@{ExecBD}}
+\index{ExecBD@{ExecBD}!Ticket2Help.DAL@{Ticket2Help.DAL}}
+\doxysubsubsection{\texorpdfstring{ExecBD()}{ExecBD()}}
+{\footnotesize\ttfamily \label{class_ticket2_help_1_1_d_a_l_a2916ba3baaf208e8e58175df18b42d4f} 
+bool Ticket2\+Help.\+DAL.\+Exec\+BD (\begin{DoxyParamCaption}\item[{string}]{sql}{}\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+Executa um comando SQL que não retorna resultados. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em sql} & Comando SQL a ser executado.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+True se a execução for bem-\/sucedida, false caso contrário.
+\end{DoxyReturn}
+\Hypertarget{class_ticket2_help_1_1_d_a_l_a222e11d7dc68c9a7fb5bd1c46c470cb8}\index{Ticket2Help.DAL@{Ticket2Help.DAL}!FetchAdminStatus@{FetchAdminStatus}}
+\index{FetchAdminStatus@{FetchAdminStatus}!Ticket2Help.DAL@{Ticket2Help.DAL}}
+\doxysubsubsection{\texorpdfstring{FetchAdminStatus()}{FetchAdminStatus()}}
+{\footnotesize\ttfamily \label{class_ticket2_help_1_1_d_a_l_a222e11d7dc68c9a7fb5bd1c46c470cb8} 
+bool Ticket2\+Help.\+DAL.\+Fetch\+Admin\+Status (\begin{DoxyParamCaption}\item[{string}]{username}{, }\item[{string}]{password}{}\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+Verifica o status de administrador de um usuário. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em username} & Nome de usuário.\\
+\hline
+{\em password} & Senha do usuário.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+True se o usuário for administrador, false caso contrário.
+\end{DoxyReturn}
+\Hypertarget{class_ticket2_help_1_1_d_a_l_aafd78cdce6217d55a49e0e138d529c03}\index{Ticket2Help.DAL@{Ticket2Help.DAL}!FetchUserID@{FetchUserID}}
+\index{FetchUserID@{FetchUserID}!Ticket2Help.DAL@{Ticket2Help.DAL}}
+\doxysubsubsection{\texorpdfstring{FetchUserID()}{FetchUserID()}}
+{\footnotesize\ttfamily \label{class_ticket2_help_1_1_d_a_l_aafd78cdce6217d55a49e0e138d529c03} 
+string Ticket2\+Help.\+DAL.\+Fetch\+User\+ID (\begin{DoxyParamCaption}\item[{string}]{username}{}\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+Busca o ID de um usuário pelo nome de usuário. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em username} & Nome de usuário.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+ID do usuário como string ou "{}\+ERROR"{} em caso de erro.
+\end{DoxyReturn}
+\Hypertarget{class_ticket2_help_1_1_d_a_l_ad33992e66a7bcaeb0fd38c8b455405ac}\index{Ticket2Help.DAL@{Ticket2Help.DAL}!GetAllColaboradores@{GetAllColaboradores}}
+\index{GetAllColaboradores@{GetAllColaboradores}!Ticket2Help.DAL@{Ticket2Help.DAL}}
+\doxysubsubsection{\texorpdfstring{GetAllColaboradores()}{GetAllColaboradores()}}
+{\footnotesize\ttfamily \label{class_ticket2_help_1_1_d_a_l_ad33992e66a7bcaeb0fd38c8b455405ac} 
+Data\+Table Ticket2\+Help.\+DAL.\+Get\+All\+Colaboradores (\begin{DoxyParamCaption}{}{}\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+Obtém todos os colaboradores. 
+
+\begin{DoxyReturn}{Returns}
+Data\+Table contendo todos os colaboradores.
+\end{DoxyReturn}
+\Hypertarget{class_ticket2_help_1_1_d_a_l_a9ce7f8e8a50ab821a05973f31843c178}\index{Ticket2Help.DAL@{Ticket2Help.DAL}!GetAllTicketsWithCollaboratorName@{GetAllTicketsWithCollaboratorName}}
+\index{GetAllTicketsWithCollaboratorName@{GetAllTicketsWithCollaboratorName}!Ticket2Help.DAL@{Ticket2Help.DAL}}
+\doxysubsubsection{\texorpdfstring{GetAllTicketsWithCollaboratorName()}{GetAllTicketsWithCollaboratorName()}}
+{\footnotesize\ttfamily \label{class_ticket2_help_1_1_d_a_l_a9ce7f8e8a50ab821a05973f31843c178} 
+Data\+Table Ticket2\+Help.\+DAL.\+Get\+All\+Tickets\+With\+Collaborator\+Name (\begin{DoxyParamCaption}{}{}\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+Obtém todos os tickets com o nome do colaborador. 
+
+\begin{DoxyReturn}{Returns}
+Data\+Table contendo todos os tickets e os nomes dos colaboradores.
+\end{DoxyReturn}
+\Hypertarget{class_ticket2_help_1_1_d_a_l_a6920e715041932cbd4304f4834f02443}\index{Ticket2Help.DAL@{Ticket2Help.DAL}!GetOldestPendingTicket@{GetOldestPendingTicket}}
+\index{GetOldestPendingTicket@{GetOldestPendingTicket}!Ticket2Help.DAL@{Ticket2Help.DAL}}
+\doxysubsubsection{\texorpdfstring{GetOldestPendingTicket()}{GetOldestPendingTicket()}}
+{\footnotesize\ttfamily \label{class_ticket2_help_1_1_d_a_l_a6920e715041932cbd4304f4834f02443} 
+Data\+Table Ticket2\+Help.\+DAL.\+Get\+Oldest\+Pending\+Ticket (\begin{DoxyParamCaption}{}{}\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+Obtém o ticket pendente mais antigo. 
+
+\begin{DoxyReturn}{Returns}
+Data\+Table contendo o ticket pendente mais antigo.
+\end{DoxyReturn}
+\Hypertarget{class_ticket2_help_1_1_d_a_l_aff1f7a035ad940999dd01e74e6f28205}\index{Ticket2Help.DAL@{Ticket2Help.DAL}!GetTicketDetails@{GetTicketDetails}}
+\index{GetTicketDetails@{GetTicketDetails}!Ticket2Help.DAL@{Ticket2Help.DAL}}
+\doxysubsubsection{\texorpdfstring{GetTicketDetails()}{GetTicketDetails()}}
+{\footnotesize\ttfamily \label{class_ticket2_help_1_1_d_a_l_aff1f7a035ad940999dd01e74e6f28205} 
+Data\+Table Ticket2\+Help.\+DAL.\+Get\+Ticket\+Details (\begin{DoxyParamCaption}\item[{int}]{id}{}\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+Obtém os detalhes de um ticket pelo ID. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em id} & ID do ticket.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Data\+Table contendo os detalhes do ticket.
+\end{DoxyReturn}
+\Hypertarget{class_ticket2_help_1_1_d_a_l_a305b63fe6b5a55949a2cd0e1cdea71e7}\index{Ticket2Help.DAL@{Ticket2Help.DAL}!GetTicketDetailsById@{GetTicketDetailsById}}
+\index{GetTicketDetailsById@{GetTicketDetailsById}!Ticket2Help.DAL@{Ticket2Help.DAL}}
+\doxysubsubsection{\texorpdfstring{GetTicketDetailsById()}{GetTicketDetailsById()}}
+{\footnotesize\ttfamily \label{class_ticket2_help_1_1_d_a_l_a305b63fe6b5a55949a2cd0e1cdea71e7} 
+Data\+Table Ticket2\+Help.\+DAL.\+Get\+Ticket\+Details\+By\+Id (\begin{DoxyParamCaption}\item[{string}]{id}{}\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+Obtém detalhes de um ticket pelo ID. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em id} & ID do ticket.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Data\+Table contendo os detalhes do ticket.
+\end{DoxyReturn}
+\Hypertarget{class_ticket2_help_1_1_d_a_l_a156774a2005a01b541a0432f5407044a}\index{Ticket2Help.DAL@{Ticket2Help.DAL}!GetTicketsByColaboradorId@{GetTicketsByColaboradorId}}
+\index{GetTicketsByColaboradorId@{GetTicketsByColaboradorId}!Ticket2Help.DAL@{Ticket2Help.DAL}}
+\doxysubsubsection{\texorpdfstring{GetTicketsByColaboradorId()}{GetTicketsByColaboradorId()}}
+{\footnotesize\ttfamily \label{class_ticket2_help_1_1_d_a_l_a156774a2005a01b541a0432f5407044a} 
+Data\+Table Ticket2\+Help.\+DAL.\+Get\+Tickets\+By\+Colaborador\+Id (\begin{DoxyParamCaption}\item[{string}]{colaborador\+Id}{}\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+Obtém tickets pelo ID do colaborador. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em colaborador\+Id} & ID do colaborador.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Data\+Table contendo os tickets do colaborador.
+\end{DoxyReturn}
+\Hypertarget{class_ticket2_help_1_1_d_a_l_af5ad8ce037c20632748fb675a0b65639}\index{Ticket2Help.DAL@{Ticket2Help.DAL}!GetUserCount@{GetUserCount}}
+\index{GetUserCount@{GetUserCount}!Ticket2Help.DAL@{Ticket2Help.DAL}}
+\doxysubsubsection{\texorpdfstring{GetUserCount()}{GetUserCount()}}
+{\footnotesize\ttfamily \label{class_ticket2_help_1_1_d_a_l_af5ad8ce037c20632748fb675a0b65639} 
+int Ticket2\+Help.\+DAL.\+Get\+User\+Count (\begin{DoxyParamCaption}\item[{string}]{username}{, }\item[{string}]{password}{}\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+Conta o número de usuários com as credenciais fornecidas. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em username} & Nome de usuário.\\
+\hline
+{\em password} & Senha do usuário.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Número de usuários encontrados.
+\end{DoxyReturn}
+\Hypertarget{class_ticket2_help_1_1_d_a_l_a00b2bb1669b35ed6e1ef260ca39b4d2f}\index{Ticket2Help.DAL@{Ticket2Help.DAL}!UpdateTicket@{UpdateTicket}}
+\index{UpdateTicket@{UpdateTicket}!Ticket2Help.DAL@{Ticket2Help.DAL}}
+\doxysubsubsection{\texorpdfstring{UpdateTicket()}{UpdateTicket()}}
+{\footnotesize\ttfamily \label{class_ticket2_help_1_1_d_a_l_a00b2bb1669b35ed6e1ef260ca39b4d2f} 
+bool Ticket2\+Help.\+DAL.\+Update\+Ticket (\begin{DoxyParamCaption}\item[{string}]{ticket\+Id}{, }\item[{string}]{status\+Ticket}{, }\item[{string}]{status\+Atend}{, }\item[{string}]{info\+Atend}{, }\item[{string}]{data\+Atendimento}{}\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+Atualiza um ticket com novas informações. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em ticket\+Id} & ID do ticket.\\
+\hline
+{\em status\+Ticket} & Novo status do ticket.\\
+\hline
+{\em status\+Atend} & Novo status de atendimento.\\
+\hline
+{\em info\+Atend} & Novas informações de atendimento.\\
+\hline
+{\em data\+Atendimento} & Nova data de atendimento.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+True se a atualização for bem-\/sucedida, false caso contrário.\texorpdfstring{$<$}{<}/returns 
+\end{DoxyReturn}
+\Hypertarget{class_ticket2_help_1_1_d_a_l_a3e559d87d31b62e8309c506d08589fcf}\index{Ticket2Help.DAL@{Ticket2Help.DAL}!UpdateTicketStatus@{UpdateTicketStatus}}
+\index{UpdateTicketStatus@{UpdateTicketStatus}!Ticket2Help.DAL@{Ticket2Help.DAL}}
+\doxysubsubsection{\texorpdfstring{UpdateTicketStatus()}{UpdateTicketStatus()}}
+{\footnotesize\ttfamily \label{class_ticket2_help_1_1_d_a_l_a3e559d87d31b62e8309c506d08589fcf} 
+bool Ticket2\+Help.\+DAL.\+Update\+Ticket\+Status (\begin{DoxyParamCaption}\item[{string}]{ticket\+Id}{, }\item[{string}]{colaborador\+Id\+Atend}{, }\item[{string}]{data\+Atendimento}{}\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+Atualiza o status de um ticket. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em ticket\+Id} & ID do ticket.\\
+\hline
+{\em colaborador\+Id\+Atend} & ID do colaborador que atende o ticket.\\
+\hline
+{\em data\+Atendimento} & Data de atendimento do ticket.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+True se a atualização for bem-\/sucedida, false caso contrário.
+\end{DoxyReturn}
+\Hypertarget{class_ticket2_help_1_1_d_a_l_afe2c98ed7969d6b1762aa23c81bfa87e}\index{Ticket2Help.DAL@{Ticket2Help.DAL}!UsernameExists@{UsernameExists}}
+\index{UsernameExists@{UsernameExists}!Ticket2Help.DAL@{Ticket2Help.DAL}}
+\doxysubsubsection{\texorpdfstring{UsernameExists()}{UsernameExists()}}
+{\footnotesize\ttfamily \label{class_ticket2_help_1_1_d_a_l_afe2c98ed7969d6b1762aa23c81bfa87e} 
+bool Ticket2\+Help.\+DAL.\+Username\+Exists (\begin{DoxyParamCaption}\item[{string}]{username}{}\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+Verifica se um nome de usuário já existe. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em username} & Nome de usuário a ser verificado.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+True se o nome de usuário já existir, false caso contrário.
+\end{DoxyReturn}
+
+
+\label{doc-variable-members}
+\Hypertarget{class_ticket2_help_1_1_d_a_l_doc-variable-members}
+\doxysubsection{Member Data Documentation}
+\Hypertarget{class_ticket2_help_1_1_d_a_l_abfd397a492c0fcfae9b7be38fc4edff5}\index{Ticket2Help.DAL@{Ticket2Help.DAL}!porAtender@{porAtender}}
+\index{porAtender@{porAtender}!Ticket2Help.DAL@{Ticket2Help.DAL}}
+\doxysubsubsection{\texorpdfstring{porAtender}{porAtender}}
+{\footnotesize\ttfamily \label{class_ticket2_help_1_1_d_a_l_abfd397a492c0fcfae9b7be38fc4edff5} 
+int Ticket2\+Help.\+DAL.\+por\+Atender\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+Obtém a contagem de tickets por status. 
+
+\begin{DoxyReturn}{Returns}
+Tupla contendo a contagem de tickets "{}por\+Atender"{}, "{}em\+Atendimento"{} e "{}atendido"{}.
+\end{DoxyReturn}
+\Hypertarget{class_ticket2_help_1_1_d_a_l_ad8cea407bbad98109eb0d56fa8306cf8}\index{Ticket2Help.DAL@{Ticket2Help.DAL}!resolvido@{resolvido}}
+\index{resolvido@{resolvido}!Ticket2Help.DAL@{Ticket2Help.DAL}}
+\doxysubsubsection{\texorpdfstring{resolvido}{resolvido}}
+{\footnotesize\ttfamily \label{class_ticket2_help_1_1_d_a_l_ad8cea407bbad98109eb0d56fa8306cf8} 
+int Ticket2\+Help.\+DAL.\+resolvido\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+Obtém a contagem de tickets resolvidos e não resolvidos. 
+
+\begin{DoxyReturn}{Returns}
+Tupla contendo a contagem de tickets "{}resolvido"{} e "{}nao\+Resolvido"{}.
+\end{DoxyReturn}
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+DAL/DAL.\+cs\end{DoxyCompactItemize}

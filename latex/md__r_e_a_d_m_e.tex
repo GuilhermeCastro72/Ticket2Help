@@ -1,0 +1,95 @@
+\chapter{Ticket2\+Help }
+\hypertarget{md__r_e_a_d_m_e}{}\label{md__r_e_a_d_m_e}\index{Ticket2Help@{Ticket2Help}}
+\label{md__r_e_a_d_m_e_autotoc_md0}%
+\Hypertarget{md__r_e_a_d_m_e_autotoc_md0}%
+\hypertarget{md__r_e_a_d_m_e_autotoc_md1}{}\doxysection{\texorpdfstring{Descrição do Projeto}{Descrição do Projeto}}\label{md__r_e_a_d_m_e_autotoc_md1}
+\doxylink{namespace_ticket2_help}{Ticket2\+Help} é uma plataforma interna para gestão de tickets de helpdesk, destinada a atender solicitações de serviços de hardware (HW) e software (SW) numa empresa. O sistema permite a geração, atendimento e acompanhamento de tickets, com funcionalidades específicas para técnicos e colaboradores, garantindo a gestão eficiente das solicitações.
+
+\DoxyHorRuler{0}
+\hypertarget{md__r_e_a_d_m_e_autotoc_md3}{}\doxysection{\texorpdfstring{Funcionalidades}{Funcionalidades}}\label{md__r_e_a_d_m_e_autotoc_md3}
+
+\begin{DoxyItemize}
+\item {\bfseries{Gestão de utilizadores}} com login e permissões diferenciadas.
+\item {\bfseries{Para técnicos de helpdesk/\+Admins\+:}}
+\begin{DoxyItemize}
+\item Atender tickets pendentes.
+\item Gerar mapas estatísticos e dashboards.
+\end{DoxyItemize}
+\item {\bfseries{Para utilizadores comuns\+:}}
+\begin{DoxyItemize}
+\item Criar tickets para serviços de hardware ou software.
+\item Listar e acompanhar o estado dos seus tickets.
+\end{DoxyItemize}
+\end{DoxyItemize}
+
+\DoxyHorRuler{0}
+\hypertarget{md__r_e_a_d_m_e_autotoc_md5}{}\doxysection{\texorpdfstring{Funcionamento}{Funcionamento}}\label{md__r_e_a_d_m_e_autotoc_md5}
+
+\begin{DoxyItemize}
+\item Cada ticket é criado com número sequencial, data/hora automática, código do colaborador e estado inicial {\ttfamily por\+Atender}.
+\item Tickets de hardware requerem descrição de equipamento e avaria.
+\item Tickets de software requerem descrição do software e necessidade.
+\item Técnicos atualizam tickets com intervenção realizada, peças usadas (hardware), estado do atendimento (aberto, resolvido, não resolvido).
+\item Dashboard apresenta estatísticas como \% tickets atendidos, \% resolvidos/não resolvidos, média de tempo de atendimento, entre outros.
+\end{DoxyItemize}
+
+\DoxyHorRuler{0}
+\hypertarget{md__r_e_a_d_m_e_autotoc_md7}{}\doxysection{\texorpdfstring{Tecnologias Utilizadas}{Tecnologias Utilizadas}}\label{md__r_e_a_d_m_e_autotoc_md7}
+
+\begin{DoxyItemize}
+\item {\bfseries{Interface\+:}} WPF (Windows Presentation Foundation) com foco em acessibilidade.
+\item {\bfseries{Arquitetura\+:}} 3 camadas (UI, BLL, DAL) seguindo padrão MVC.
+\item {\bfseries{Padrões de design\+:}} MVC, Factory, Strategy, herança entre classes Ticket, Hardware\+Ticket e Software\+Ticket.
+\item {\bfseries{Base de dados\+:}} SQL Server.
+\item {\bfseries{Documentação\+:}} Doxygen para geração automática da documentação em HTML.
+\item {\bfseries{Testes\+:}} Testes unitários implementados para as classes Ticket.
+\item {\bfseries{Controle de versão\+:}} Git\+Hub para colaboração e gestão do código.
+\end{DoxyItemize}
+
+\DoxyHorRuler{0}
+\hypertarget{md__r_e_a_d_m_e_autotoc_md9}{}\doxysection{\texorpdfstring{Instalação e Uso}{Instalação e Uso}}\label{md__r_e_a_d_m_e_autotoc_md9}
+
+\begin{DoxyEnumerate}
+\item Clone este repositório\+:
+\item Abra a solução no Visual Studio (versão recomendada).
+\item Configure a ligação à base de dados SQL Server no ficheiro de configuração.
+\item Compile e execute a aplicação WPF.
+\item Faça login com as credenciais fornecidas para técnicos ou utilizadores comuns.
+\item Utilize as funcionalidades conforme o perfil do utilizador.
+\end{DoxyEnumerate}
+
+\DoxyHorRuler{0}
+\hypertarget{md__r_e_a_d_m_e_autotoc_md11}{}\doxysection{\texorpdfstring{Estrutura do Projeto}{Estrutura do Projeto}}\label{md__r_e_a_d_m_e_autotoc_md11}
+
+\begin{DoxyItemize}
+\item {\bfseries{UI/}} -\/ Projeto WPF para interface gráfica.
+\item {\bfseries{BLL/}} -\/ Camada de lógica de negócio, com classes e regras do sistema.
+\item {\bfseries{DAL/}} -\/ Acesso à base de dados SQL Server.
+\item {\bfseries{Tests/}} -\/ Testes unitários para validação das classes.
+\item {\bfseries{Docs/}} -\/ Documentação gerada pelo Doxygen.
+\end{DoxyItemize}
+
+\DoxyHorRuler{0}
+\hypertarget{md__r_e_a_d_m_e_autotoc_md13}{}\doxysection{\texorpdfstring{Equipa}{Equipa}}\label{md__r_e_a_d_m_e_autotoc_md13}
+
+\begin{DoxyItemize}
+\item Guilherme Castro — Função (Desenvolvimento da UI,BLL e testes)
+\item Guilherme Teixeira— Função (Implementação da BLL e DAL)
+\item Vitor Teixeira— Função (Desenvolvimento da UI e testes)
+\end{DoxyItemize}
+
+\DoxyHorRuler{0}
+\hypertarget{md__r_e_a_d_m_e_autotoc_md15}{}\doxysection{\texorpdfstring{Documentação e Referências}{Documentação e Referências}}\label{md__r_e_a_d_m_e_autotoc_md15}
+
+\begin{DoxyItemize}
+\item Documentação gerada pelo Doxygen em {\ttfamily Ticket2\+Help/html/index.\+html}.
+\item Requisitos funcionais e análise no relatório do projeto.
+\end{DoxyItemize}
+
+\DoxyHorRuler{0}
+\hypertarget{md__r_e_a_d_m_e_autotoc_md17}{}\doxysection{\texorpdfstring{Contribuição}{Contribuição}}\label{md__r_e_a_d_m_e_autotoc_md17}
+Contribuições são bem-\/vindas! Por favor, faça um fork do repositório, crie uma branch para a sua feature ou correção, e envie um pull request.
+
+\DoxyHorRuler{0}
+\hypertarget{md__r_e_a_d_m_e_autotoc_md19}{}\doxysection{\texorpdfstring{Licença}{Licença}}\label{md__r_e_a_d_m_e_autotoc_md19}
+Este projeto está licenciado sob a Licença MIT — veja o ficheiro LICENSE para detalhes. 
