@@ -23,19 +23,9 @@ CREATE TABLE Ticket (
     info_atend nvarchar(2000),	
 );
 
-INSERT INTO Colaboradores (admin, nome, username, password)
-VALUES
-(1, 'Joao', 'admin', 'admin1'),
-(0, 'Diogo', 'diogo', 'diogo1' ),
-(0, 'maria', 'maria', 'maria1');
 
 SELECT * FROM Colaboradores
 
 SELECT * FROM Ticket
 
-WHERE status_ticket = 'porAtender' order by data_criacao
 
-SELECT * FROM Ticket WHERE Colaborador_ID_Maker = 2 order by data_criacao
-
-drop table Colaboradores
-drop table Ticket
