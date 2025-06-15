@@ -51,13 +51,17 @@ var NAVTREE =
         [ "Properties", "functions_prop.html", null ],
         [ "Events", "functions_evnt.html", null ]
       ] ]
+    ] ],
+    [ "Files", "files.html", [
+      [ "File List", "files.html", "files_dup" ]
     ] ]
   ] ]
 ];
 
 var NAVTREEINDEX =
 [
-"annotated.html"
+"_add_user_8g_8i_8cs_source.html",
+"class_ticket2_help_1_1_b_l_l_1_1_colaborador_details.html#a744813fcb08f8e19804dafbc1d637ce4"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronization';
