@@ -19,7 +19,7 @@
         <lvc:PieChart
       Series="{Binding TicketsResolvedSeries}"
       LegendLocation="Right"
-      Margin="329,76,10,82" />
+      Margin="359,82,11,85" />
 
 
 

@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Comment CommentText="		NameSpace  Ticket2Help&#xD;&#xA;">
+    <Position X="4.557" Y="0.528" Height="0.324" Width="3.688" />
+  </Comment>
+  <Comment CommentText="NameSpace BLLTests&#xD;&#xA;">
+    <Position X="12.431" Y="0.528" Height="0.324" Width="2.183" />
+  </Comment>
+  <Class Name="Ticket2Help.AddUser" BaseTypeListCollapsed="true">
+    <Position X="7.25" Y="4" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAEAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>AddUser.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Ticket2Help.Admin" BaseTypeListCollapsed="true">
+    <Position X="18.25" Y="3.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAKAAIAAAAABACAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Admin.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Ticket2Help.Admin_Reply" BaseTypeListCollapsed="true">
+    <Position X="14.5" Y="6" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAEAgACBAAAAAACAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdminReply.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Ticket2Help.App">
+    <Position X="16.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ticket2Help.Dashboard" BaseTypeListCollapsed="true">
+    <Position X="14.5" Y="4" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Dashboard.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Ticket2Help.DashboardViewModel" BaseTypeListCollapsed="true">
+    <Position X="21.75" Y="2" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAARAAAAIAAAAAAAoAAAAAAAQAAAgAAIAAA=</HashCode>
+      <FileName>DashboardViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Ticket2Help.EditUser" BaseTypeListCollapsed="true">
+    <Position X="12" Y="4" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAgEAAAAAAAAAAACAAAAAAAAFABAAAAAAAAAAA=</HashCode>
+      <FileName>EditUser.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Ticket2Help.List_User_Ticket" BaseTypeListCollapsed="true">
+    <Position X="18" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAEAAAIAAAAABAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ListUserTicket.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Ticket2Help.MainWindow" BaseTypeListCollapsed="true">
+    <Position X="15.5" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAACAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.113" Collapsed="true" />
+  </Class>
+  <Class Name="Ticket2Help.PlaceholderService">
+    <Position X="7" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAAAAAACAAAAAAAAIAAA=</HashCode>
+      <FileName>PlaceholderService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ticket2Help.User" BaseTypeListCollapsed="true">
+    <Position X="9.75" Y="3.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>QQACAQAgEAAAAACCAABACCAEAAAAAAEAAAAAAAAAAEA=</HashCode>
+      <FileName>User.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Ticket2Help.Users_List" BaseTypeListCollapsed="true">
+    <Position X="13.5" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAEAAQAQAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>UsersList.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="UserSession">
+    <Position X="11.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAgAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Admin.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ticket2Help.DAL">
+    <Position X="1" Y="1.5" Width="2.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Ticket2Help.BLL">
+    <Position X="4" Y="1.5" Width="2.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="Ticket2Help.BLL.TicketDetails">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Ticket2Help.BLL.ColaboradorDetails">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Ticket2Help.UserService">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

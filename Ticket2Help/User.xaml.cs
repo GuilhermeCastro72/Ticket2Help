@@ -33,6 +33,14 @@ namespace Ticket2Help
     set { _id = value; }
 }
 
+        public AddUser AddUser
+        {
+            get => default;
+            set
+            {
+            }
+        }
+
         /// <summary>
         /// Construtor padrão da classe User
         /// </summary>

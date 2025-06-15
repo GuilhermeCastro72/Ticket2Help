@@ -384,10 +384,10 @@ namespace Ticket2Help
         public static (int resolvido, int naoResolvido) GetResolvedTicketCounts()
         {
             string query = @"
-            SELECT 
-                SUM(CASE WHEN status_atend = 'resolvido' THEN 1 ELSE 0 END) AS Resolvido,
-                SUM(CASE WHEN status_atend = 'naoResolvido' THEN 1 ELSE 0 END) AS NaoResolvido
-            FROM Ticket";
+    SELECT 
+        SUM(CASE WHEN status_atend = 'resolvido' THEN 1 ELSE 0 END) AS Resolvido,
+        SUM(CASE WHEN status_atend = 'naoResolvido' OR status_ticket = 'emAtendimento' THEN 1 ELSE 0 END) AS NaoResolvido
+    FROM Ticket";
 
             using (SqlConnection con = new SqlConnection(conStr))
             {
@@ -406,7 +406,6 @@ namespace Ticket2Help
                 return (resolvido, naoResolvido);
             }
         }
-
     }
 
     /// <summary>

@@ -14,7 +14,7 @@
         <!-- Nome -->
         <TextBox x:Name="txtNome" Grid.Row="0" Height="35" Margin="0,0,0,10" FontSize="14"
                  Text="Nome completo" Foreground="LightGray"
-                 GotFocus="TextBox_GotFocus" LostFocus="TextBox_LostFocus"/>
+                 GotFocus="TextBox_GotFocus" LostFocus="TextBox_LostFocus" TextChanged="txtNome_TextChanged"/>
 
         <!-- Username -->
         <TextBox x:Name="txtUsername" Grid.Row="1" Height="35" Margin="0,0,0,10" FontSize="14"

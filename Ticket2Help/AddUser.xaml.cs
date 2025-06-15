@@ -108,5 +108,10 @@ namespace Ticket2Help
                 textBox.Foreground = Brushes.LightGray;
             }
         }
+
+        private void txtNome_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
+        }
     }
 }
